@@ -32,14 +32,40 @@ III) Geometry - 1
 6. 1d ,2d ,3d dimensions
 7. Triangles
 8. Classify Traingles based on sides and angles
+9. Quadrilaterals
+10. Parallelogram
+
+IV) Geometry - 2
+1. Rectangles
+2. Rhombus
+3. Square
+4. Trapezoids
+5. Perimeter
+6. Area
+7. 3D shapes 
+8. Cube , Cuboids 
+9. Cylinder, Cones
+10. Unit Cube
+11. Volume of Cube and Cuboid
+12. Volume of Cylinder and Cone
+13. Volume representation
+14. Fluid voulme 
+15. Metric System  (ml,l)
+
+V) Data Representation
+1) BarGraph
+2) Picture Graph
+3) Line Plot
+4) Stem Leaf Plot
+5) Stastics
+6) Mean , Median , Mode
+7) Coordinate planes
+8) Compose Shapes
 
 
+1. Powers of 10
+2. Algorithmic Expressions
 
-III) Volume
-
-1. Volume representation
-2. Fluid voulme 
-3. Metric System  (ml,l)
 
 
 
