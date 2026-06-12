@@ -1,47 +1,78 @@
+I think Mathematics is necessary
 
-I think of the mathematical skills to list step by step 
+I) Counting
 
+1. Counting numbers
+2. Count in order
+3. Count frames
+4. Count Comparison
+5. Count by Category
+6. Count pictures
 
-            Countng
-1. Count objects in Picture 
-2. How to Count in order
-3. Compare Counting using how many
-4. Missing Counting
-5. Number grid 1-120
+II) Numbers
+
+1. Number grids and place value blocks
+2. ones , tens , hundreds
+3. thousands, ten thousands , hundred thousands 
+4. million, ten million, hundred million
+5. billions and trillions
 6. Missing number
-7. Count comparison by category
-8. Count using frames / arrays
-9. Counting / Comparison using number line
+7. Next and Previous number
 
+III) Addition and Subraction
 
-     Addition and Subraction
+1. Addition and Subraction using place value blocks
+2. Addition and Subraction using frames/arrays
+3. Addition and Subraction using Number line
+4. Natural and Whole numbers
+5. Make 5 , 10 , 20 , 100
+6. Skip 5 , 10 , 20 , 100 , 1000
+7. Count 5 , 10 , 20 , 100 , 1000
+8. Regrouping
+9. Break Apart
+10. Round to nearest ten , hundred , thousand , ten thousand etc
+11. Relate Place to Addition and Subraction
+12. Missing number in Addition and Subraction
+13. Multi Digit Addition and Subraction
+14. Word Problems
+15. Add and Subract with zero (Identity)
+16. Estimation
 
-1. Add within 5
-2. Make 5
-3. Skip Counting by 5
-4. Add within 10
-5. Make 10
-6. Skip Counting by 10
-7. Add within 20
-8. Make 20
-9. Skip Counting by 20
-10. Add within 100
-11. Make 100
-12. Skip Counting by 100
-13. Add within 1000
-14. Make 1000
-15. Skip Counting by 1000
-16. Add within 10,000
-17. Make 10,000
-18. Skip Counting by 10,000
-19. Place values (Ones,Tens,Hundreds,Thousands,Ten Thousands)
-20. Addition and Subraction using Frames / Arrays
-21. Addition and Subraction using Place value blocks
-22. Addition and Subraction using Number line
-24. Addition and Subraction using Put together / Break Apart 
-25. Addition and Subraction using Regrouping
-26. Addition and Subraction using Standard Algorithm
-27. Estimate Addition and Subraction
-28. Expanded form 
-29. Number in Words
-30. Odd and Even numbers : frames/arrays 
+IV) Multiplication
+
+1. Make Equal Groups
+2. Multiplication with repeated addition
+3. Multiplication using place value blocks
+4. Multiplication using frames/arrays
+5. Multiplication using number lines
+6. Multiply 0 and 1
+7. Multiplication tables 2 - 9
+8. Cumulative Property and Associative Property
+9. Distrubutive Property
+10. Multiplication using area models
+11. Multiplication using Partial products
+12. Word Problems
+13. Estimation 
+
+V) Division
+
+1. Division using equal groups
+2. Division using place blocks
+3. Division using number line
+4. Relating Multiplication and Division
+5. Divide by 2 , 4 , 8 
+6. Divide by 3 , 6 , 9 
+7. Divide by 7,11
+8. Divide by 5 , 10
+9. Division using area models
+10. Estimate Quotient
+11. Reciprocals
+12. Division using Multiplication
+13. Remainder
+14. Long Division
+15. Word Problems
+16. Factors and Multiplies
+17. Identify factors and multiplies
+18. Primes and Composite
+19. Recognise Patterns
+20. Order of Operations(BODMAS)
