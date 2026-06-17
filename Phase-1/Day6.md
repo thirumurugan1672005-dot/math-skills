@@ -1,4 +1,4 @@
-# Mathematics - 2
+# Multiplication - 2
 * Commutative Property and Associative Property
 * Distrubutive Property
 * Multiplication using area models
