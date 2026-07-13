@@ -7,3 +7,8 @@
 6) Mean , Median , Mode
 7) Coordinate planes
 8) Compose Shapes
+
+
+
+1. Powers of 10
+2. Algorithmic Expressions
