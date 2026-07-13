@@ -1,15 +1,10 @@
-# Stastics
-## Graphs
-1) Bar Graphs
-2) Picture Graphs
-3) Line Plots
-4) Stem Leaf plots
 
-## Average
-1) Mean
-2) Median
-3) Mode
-4) Range
-5) Frequency Plots
-6) Scatter Plot
-7) Coordinate Relationships
+# Clocks
+
+1. Hour and Minutes
+2. Labelled clock
+3. non labelled clock
+4. after and before between time word problems
+5.  half past and quarter past / quarter to
+6. minutes past / to , seconds past / to
+7. Hours minutes ,seconds
