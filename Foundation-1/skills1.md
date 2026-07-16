@@ -326,4 +326,3 @@
 
 ---
 
-*This reference covers all formulas associated with the curriculum. Formulas are progressively introduced across grade levels (approx. Grades 1–6 scope).*
