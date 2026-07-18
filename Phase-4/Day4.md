@@ -7,11 +7,10 @@
 5. Perimeter
 6. Area
 7. 3D shapes 
-8. Cube , Cuboids 
-9. Cylinder, Cones
+8. Cube , Cuboids
+9. Edges , Vertices 
 10. Unit Cube
-11. Volume of Cube and Cuboid
-12. Volume of Cylinder and Cone
-13. Volume representation
-14. Fluid voulme 
-15. Metric System  (ml,l)
+11. Volume of Cube,Cuboid
+12. Volume representation
+13. Fluid voulme 
+14. Metric System  (ml,l)
