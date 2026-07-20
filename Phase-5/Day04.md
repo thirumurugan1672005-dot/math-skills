@@ -1,3 +1,4 @@
+# Number and Operations
 1. Squares and Cubes
 2. Square Roots
 3. Cube Roots
@@ -8,3 +9,5 @@
 8. Special Irrational numbers
 9. Integers
 10. pi , square root of 2,3
+11. Classify Rational and Irrational
+12. Numbers Classification : Natural , Whole,Integers , Rational ,Irrational
