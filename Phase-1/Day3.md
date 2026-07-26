@@ -8,3 +8,4 @@
 * Skip 5 , 10 , 20 , 100 , 1000
 * Count 5 , 10 , 20 , 100 , 1000
 * Regrouping
+* Subraction as inverse of addition
