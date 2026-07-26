@@ -6,3 +6,6 @@
    4) Estimation
    5) Area Model
    6) using place value blocks
+   7) Rounding Decimals
+   8) Estimate Rounding Decimals
+   9) Rounding Decimals using number line
