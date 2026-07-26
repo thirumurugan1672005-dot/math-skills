@@ -3,8 +3,9 @@
 * Division using equal groups
 * Division using place blocks
 * Division using number line
-* Relating Multiplication and Division
-* Divide by 2 , 4 , 8 
-* Divide by 3 , 6 , 9 
-* Divide by 7,11
-* Divide by 5 , 10
+* Relating Division as inverse of Multiplication
+* Divide by 2 , 4 , 8 (Divisiblity Rules)
+* Divide by 3 , 6 , 9 (Divisiblity Rules)
+* Divide by 7,11 (Divisiblity Rules)
+* Divide by 5 , 10 (Divisiblity Rules)
+
