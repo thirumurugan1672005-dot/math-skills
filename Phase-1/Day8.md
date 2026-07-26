@@ -5,6 +5,6 @@
 * Division using Multiplication
 * Remainder
 * Long Division
-* Word Problems
+* Word Problems Including (Sharing and Grouping)
 * Factors and Multiplies
 * Identify factors and multiplies
