@@ -1,8 +1,12 @@
-# Ratios - 1
-1. Ratios as Comparing Number of Things
-2. Part : Whole Ratios
-3. Ratios using Tape Diagram
-4. Equivalent Ratios
-5. Equivalent Ratios using Tape Diagram
-6. Equivalent Ratios using number line
+Geomery - Area and Surface Area and Volume
+
+1. Area of Parallelogram and Rhombus
+2. Area of Composite Shapes
+3. Faces and edges , vertices
+4. Recognise 3d shapes
+5. Volume of Fractional cube
+6. Volume of Rectangular prism , cube
 7. Word Problems
+8. Polyhedron
+9. Surface Area of Polyhedron
+10. Surface Area of Cube , Cuboid
