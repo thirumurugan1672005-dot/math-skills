@@ -9,3 +9,4 @@
 8. Shapes of Distrubution
 9. Clsuters , Peak ,gaps
 10. Center,Outlier,Peak,Spread
+11. Left Skewed,Right Skewwed,Symmetrical or Assymetrical
