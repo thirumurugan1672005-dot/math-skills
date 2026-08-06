@@ -1,12 +1,11 @@
-
-# System of Equations
-
-1. Intro to System of Equations
-2. Two Unknowns
-3. Finding Solutions using Graph
-4. Finding Solutions using substitution
-5. Finding Solutions using elimination
-6. System of Equations problems
-7. Dependent and Independent Variables
-8. Age Problems
-9. Word Problems on Ages.
+# Probability
+1. Probability
+2. Equally Likely Events
+3. Events
+4. Experiment
+5. Mutual Exclusive events
+6. Theoretical Probability
+7. Experimental Probability
+8. Intuation of Probability
+9. Theoretical and Experiment
+10. Making Probability
