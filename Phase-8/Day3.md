@@ -12,10 +12,6 @@
 10. compare populations
 
 
-# Operations
-1. Signed number Operations
-2. Fractions as percents
-3. Percent Error
 
 # Geometry
 1. volume of cone and Cylinder
