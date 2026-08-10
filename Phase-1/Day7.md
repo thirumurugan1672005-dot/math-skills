@@ -8,4 +8,5 @@
 * Divide by 3 , 6 , 9 (Divisiblity Rules)
 * Divide by 7,11 (Divisiblity Rules)
 * Divide by 5 , 10 (Divisiblity Rules)
+* Equal Parts and How manys in this ?
 
