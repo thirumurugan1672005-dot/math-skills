@@ -1,13 +1,9 @@
-# Rate and Percentage
+# Rates
 1. Rate
 2. Rate Per things
-3. Percent Representation
-4. Percentage of Whole Number
-5. Percentage of Fractions and Decimals
-6. Common Percentages
+3. Rate Problems
+4. Speed as Rate
+5. Rate per different units
+6. Comparing Different Rates
+7. Rate Word Problems
 
-9. Rounding
-10. Repeated and non repeated decimals
-11. Integers -> Repeated Decimal
-12. Repeated Decimal -> Integer
-13. Order / Compare Rational numbers
