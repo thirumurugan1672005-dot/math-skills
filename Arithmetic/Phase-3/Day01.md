@@ -9,4 +9,5 @@
 * Line plot decimal line
 * Compare Decimals visually
 * Compare using decimals using number line
-* Expanded form od Decimals 
+* Expanded form od Decimals
+* Conversion between fractions and decimals
