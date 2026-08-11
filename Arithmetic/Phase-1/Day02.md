@@ -10,3 +10,5 @@
 * Next and Previous number
 * Number Line
 * Visualising numbers on Number line
+* Comparing numbers using < , > , <= ,>= , =
+* Comparing using number line
